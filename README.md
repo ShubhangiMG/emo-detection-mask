@@ -3,7 +3,6 @@
 This project is an extension to the standard emotion detection problem using the facial expressions. It extends the usage for the COVID-19 scenario where the facial expressions are hugely obstructed by the usage of face masks. 
 The classification model is built using the Convolutional Neural Networks (CNN) for 7 classes of emotions- angry, fear, happy, sad, surprise, disgust, neutral.
 
-![image](https://user-images.githubusercontent.com/50448485/174650287-c1213bab-4921-40d1-86b7-9514d306c699.png)
 
 ![image](https://user-images.githubusercontent.com/50448485/163726982-889b371a-aa14-4aa4-bdd5-902334c8e129.png)
 
